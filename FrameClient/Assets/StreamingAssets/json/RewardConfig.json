@@ -1,0 +1,89 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "condition": 20,
+      "type": 1,
+      "count": 100,
+      "icon": "jianglijinbi@2x"
+    },
+    {
+      "id": 2,
+      "condition": 40,
+      "type": 1,
+      "count": 100,
+      "icon": "jianglijinbi@2x"
+    },
+    {
+      "id": 3,
+      "condition": 60,
+      "type": 1002,
+      "count": 1,
+      "icon": "character_xuewu@2x"
+    },
+    {
+      "id": 4,
+      "condition": 20,
+      "type": 1,
+      "count": 100,
+      "icon": "jianglijinbi@2x"
+    },
+    {
+      "id": 5,
+      "condition": 40,
+      "type": 1,
+      "count": 150,
+      "icon": "jianglijinbi@2x"
+    },
+    {
+      "id": 6,
+      "condition": 60,
+      "type": 1010,
+      "count": 1,
+      "icon": "character_senlin@2x"
+    },
+    {
+      "id": 7,
+      "condition": 20,
+      "type": 1,
+      "count": 150,
+      "icon": "jianglijinbi@2x"
+    },
+    {
+      "id": 8,
+      "condition": 40,
+      "type": 1,
+      "count": 200,
+      "icon": "jianglijinbi@2x"
+    },
+    {
+      "id": 9,
+      "condition": 60,
+      "type": 1008,
+      "count": 1,
+      "icon": "character_jinzita@2x"
+    },
+    {
+      "id": 10,
+      "condition": 20,
+      "type": 1,
+      "count": 200,
+      "icon": "jianglijinbi@2x"
+    },
+    {
+      "id": 11,
+      "condition": 40,
+      "type": 1,
+      "count": 250,
+      "icon": "jianglijinbi@2x"
+    },
+    {
+      "id": 12,
+      "condition": 60,
+      "type": 1006,
+      "count": 1,
+      "icon": "character_guiwu@2x"
+    }
+  ],
+  "version": "20200331"
+}

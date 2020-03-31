@@ -1,0 +1,85 @@
+{
+  "datas": [
+    {
+      "id": 1001,
+      "name": 5000,
+      "remark": 1,
+      "res": "tuowei1",
+      "getType": 1,
+      "spend": 0,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1002,
+      "name": 5001,
+      "remark": 2,
+      "res": "tuowei2",
+      "getType": 3,
+      "spend": 100,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1003,
+      "name": 5002,
+      "remark": 3,
+      "res": "tuowei3",
+      "getType": 3,
+      "spend": 200,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1004,
+      "name": 5003,
+      "remark": 4,
+      "res": "tuowei4",
+      "getType": 3,
+      "spend": 300,
+      "isshop": false,
+      "hide": true
+    },
+    {
+      "id": 1005,
+      "name": 5004,
+      "remark": 5,
+      "res": "tuowei5",
+      "getType": 3,
+      "spend": 400,
+      "isshop": false,
+      "hide": true
+    },
+    {
+      "id": 1006,
+      "name": 5005,
+      "remark": 6,
+      "res": "tuowei6",
+      "getType": 3,
+      "spend": 500,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1007,
+      "name": 5006,
+      "remark": 7,
+      "res": "tuowei7",
+      "getType": 3,
+      "spend": 500,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1008,
+      "name": 5007,
+      "remark": 8,
+      "res": "tuowei8",
+      "getType": 3,
+      "spend": 500,
+      "isshop": true,
+      "hide": false
+    }
+  ],
+  "version": "20200331"
+}

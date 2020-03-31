@@ -1,0 +1,35 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "randNum": 0.3,
+      "randNumSpc": 1.0
+    },
+    {
+      "id": 2,
+      "randNum": 0.3,
+      "randNumSpc": 1.0
+    },
+    {
+      "id": 3,
+      "randNum": 1.0,
+      "randNumSpc": 1.0
+    },
+    {
+      "id": 4,
+      "randNum": 1.0,
+      "randNumSpc": 1.0
+    },
+    {
+      "id": 5,
+      "randNum": 1.0,
+      "randNumSpc": 1.0
+    },
+    {
+      "id": 6,
+      "randNum": 1.0,
+      "randNumSpc": 1.0
+    }
+  ],
+  "version": "20200331"
+}

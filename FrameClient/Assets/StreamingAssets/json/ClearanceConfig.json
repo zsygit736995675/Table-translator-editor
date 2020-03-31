@@ -1,0 +1,15 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "remark": 2001,
+      "clearanceType": 1
+    },
+    {
+      "id": 2,
+      "remark": 2002,
+      "clearanceType": 2
+    }
+  ],
+  "version": "20200331"
+}

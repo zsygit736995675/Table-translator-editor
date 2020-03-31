@@ -1,0 +1,193 @@
+{
+  "datas": [
+    {
+      "id": 1001,
+      "name": 1000,
+      "remark": [
+        1,
+        1
+      ],
+      "res": "character_moren",
+      "targetRes": "target_moren",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-n",
+        "sdfas"
+      ],
+      "hook": "gouzhua_moren",
+      "getType": 1,
+      "spend": 0,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1002,
+      "name": 1001,
+      "remark": [
+        1,
+        2
+      ],
+      "res": "character_xuewu",
+      "targetRes": "target_xuewu",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-xueren",
+        "eewr"
+      ],
+      "hook": "gouzhua_xuewu",
+      "getType": 6,
+      "spend": 0,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1003,
+      "name": 1002,
+      "remark": [
+        1,
+        3
+      ],
+      "res": "character_chengbao",
+      "targetRes": "target_chengbao",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-chengbao",
+        "hdfg"
+      ],
+      "hook": "gouzhua_chengbao",
+      "getType": 3,
+      "spend": 300,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1004,
+      "name": 1003,
+      "remark": [
+        1
+      ],
+      "res": "character_beijixiong",
+      "targetRes": "target_beijixiong",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-xiong",
+        "vbx"
+      ],
+      "hook": "gouzhua_beijixiong",
+      "getType": 3,
+      "spend": 200,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1005,
+      "name": 1004,
+      "remark": [
+        1
+      ],
+      "res": "character_gongren",
+      "targetRes": "target_gongren",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-kuanggong",
+        "lll"
+      ],
+      "hook": "gouzhua_gongren",
+      "getType": 3,
+      "spend": 100,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1006,
+      "name": 1005,
+      "remark": [
+        1
+      ],
+      "res": "character_guiwu",
+      "targetRes": "target_guiwu",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-death"
+      ],
+      "hook": "gouzhua_guiwu",
+      "getType": 6,
+      "spend": 300,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1007,
+      "name": 1006,
+      "remark": [
+        1
+      ],
+      "res": "character_haidao",
+      "targetRes": "target_haidao",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-praite"
+      ],
+      "hook": "gouzhua_haidao",
+      "getType": 3,
+      "spend": 500,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1008,
+      "name": 1007,
+      "remark": [
+        1
+      ],
+      "res": "character_jinzita",
+      "targetRes": "target_jinzita",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-jinzita"
+      ],
+      "hook": "gouzhua_jinzita",
+      "getType": 6,
+      "spend": 0,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1009,
+      "name": 1008,
+      "remark": [
+        1
+      ],
+      "res": "character_niuzai",
+      "targetRes": "target_niuzai",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-niuzai"
+      ],
+      "hook": "gouzhua_niuzai",
+      "getType": 3,
+      "spend": 200,
+      "isshop": true,
+      "hide": false
+    },
+    {
+      "id": 1010,
+      "name": 1009,
+      "remark": [
+        1
+      ],
+      "res": "character_senlin",
+      "targetRes": "target_senlin",
+      "dottedline": "point-n",
+      "solidline": [
+        "line-senlin"
+      ],
+      "hook": "gouzhua_senlin",
+      "getType": 6,
+      "spend": 0,
+      "isshop": true,
+      "hide": false
+    }
+  ],
+  "version": "20200331"
+}

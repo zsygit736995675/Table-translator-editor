@@ -1,0 +1,221 @@
+{
+  "datas": [
+    {
+      "id": 1003,
+      "position": "[-505,-315]",
+      "textType": "3",
+      "radius": 40,
+      "strid": 3000,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 3,
+      "position": "[20.83,157.1]",
+      "textType": "1",
+      "radius": 90,
+      "strid": 3004,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 5,
+      "position": "[-361,-312]",
+      "textType": "3",
+      "radius": 150,
+      "strid": 3005,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 16,
+      "position": "[-230,-20]",
+      "textType": "3",
+      "radius": 125,
+      "strid": 3006,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 21,
+      "position": "[32,-100]",
+      "textType": "3",
+      "radius": 124,
+      "strid": 3007,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 26,
+      "position": "[545,197.2]",
+      "textType": "1",
+      "radius": 99,
+      "strid": 3008,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 31,
+      "position": "[-228,30.6]",
+      "textType": "3",
+      "radius": 133,
+      "strid": 3009,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 36,
+      "position": "[-338,2]",
+      "textType": "3",
+      "radius": 61,
+      "strid": 3010,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 41,
+      "position": "[-231,2]",
+      "textType": "3",
+      "radius": 61,
+      "strid": 3011,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 46,
+      "position": "[-525.2,-253]",
+      "textType": "3",
+      "radius": 80,
+      "strid": 3012,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 51,
+      "position": "[33,9]",
+      "textType": "1",
+      "radius": 220,
+      "strid": 3013,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 56,
+      "position": "[3,-33]",
+      "textType": "1",
+      "radius": 170,
+      "strid": 3014,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 61,
+      "position": "[48.6,-90.11]",
+      "textType": "3",
+      "radius": 86,
+      "strid": 3015,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 71,
+      "position": "[-517,63]",
+      "textType": "3",
+      "radius": 50,
+      "strid": 3016,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 1001,
+      "position": "[0,0]",
+      "textType": "3",
+      "radius": 185,
+      "strid": 3017,
+      "isHide": false,
+      "isUI": true
+    },
+    {
+      "id": 1002,
+      "position": "[-370.48,221.15]",
+      "textType": "2",
+      "radius": 77,
+      "strid": 3018,
+      "isHide": false,
+      "isUI": true
+    },
+    {
+      "id": 1007,
+      "position": "[-625.89,335.5]",
+      "textType": "2",
+      "radius": 45,
+      "strid": 3019,
+      "isHide": false,
+      "isUI": true
+    },
+    {
+      "id": 1008,
+      "position": "[-562.3,-296.97]",
+      "textType": "3",
+      "radius": 50,
+      "strid": 3020,
+      "isHide": false,
+      "isUI": true
+    },
+    {
+      "id": 1009,
+      "position": "[163.5,-99.2]",
+      "textType": "2",
+      "radius": 130,
+      "strid": 3021,
+      "isHide": false,
+      "isUI": true
+    },
+    {
+      "id": 1010,
+      "position": "[286.5,225.8]",
+      "textType": "2",
+      "radius": 45,
+      "strid": 3022,
+      "isHide": false,
+      "isUI": true
+    },
+    {
+      "id": 1011,
+      "position": "[-353.1,311.1]",
+      "textType": "4",
+      "radius": 45,
+      "strid": 3023,
+      "isHide": false,
+      "isUI": true
+    },
+    {
+      "id": 1004,
+      "position": "[510,75]",
+      "textType": "4",
+      "radius": 30,
+      "strid": 3001,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 1005,
+      "position": "[-375,0]",
+      "textType": "3",
+      "radius": 40,
+      "strid": 3002,
+      "isHide": false,
+      "isUI": false
+    },
+    {
+      "id": 1006,
+      "position": "[375,0]",
+      "textType": "4",
+      "radius": 40,
+      "strid": 3003,
+      "isHide": false,
+      "isUI": false
+    }
+  ],
+  "version": "20200331"
+}

@@ -1,0 +1,1160 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "zh": "排行榜",
+      "en": "Rank",
+      "sp": "Tabla de clasificación",
+      "ge": "Hitliste"
+    },
+    {
+      "id": 3,
+      "zh": "设置",
+      "en": "Settings",
+      "sp": "Configurar",
+      "ge": "Einrichten"
+    },
+    {
+      "id": 4,
+      "zh": "更多",
+      "en": "More",
+      "sp": "Más",
+      "ge": "Mehr"
+    },
+    {
+      "id": 5,
+      "zh": "商店",
+      "en": "Shop",
+      "sp": "Tienda",
+      "ge": "Geschäft"
+    },
+    {
+      "id": 6,
+      "zh": "排名",
+      "en": "Ranking",
+      "sp": "Ranking",
+      "ge": "Rang"
+    },
+    {
+      "id": 7,
+      "zh": "声音",
+      "en": "Sound",
+      "sp": "Sonido",
+      "ge": "Stimme"
+    },
+    {
+      "id": 8,
+      "zh": "音效",
+      "en": "Music",
+      "sp": "Efecto de sonido",
+      "ge": "Effekt der Stimme"
+    },
+    {
+      "id": 9,
+      "zh": "震动",
+      "en": "Vibration",
+      "sp": "Estremecer",
+      "ge": "Vibration"
+    },
+    {
+      "id": 10,
+      "zh": "分享",
+      "en": "Share",
+      "sp": "Compartir",
+      "ge": "Teilen"
+    },
+    {
+      "id": 11,
+      "zh": "加载中",
+      "en": "Loading",
+      "sp": "Esperando",
+      "ge": "Warten"
+    },
+    {
+      "id": 12,
+      "zh": "Facebook登录",
+      "en": "Facebook Login",
+      "sp": "Inicio de sesión de Facebook",
+      "ge": "Facebook-Login"
+    },
+    {
+      "id": 14,
+      "zh": "游客登录",
+      "en": "Guest login",
+      "sp": "Inicio de sesión turístico",
+      "ge": "Als Besucher Login"
+    },
+    {
+      "id": 15,
+      "zh": "系统提示",
+      "en": "Attention",
+      "sp": "Tugerir",
+      "ge": "Hinweis"
+    },
+    {
+      "id": 16,
+      "zh": "购买",
+      "en": "Buy",
+      "sp": "Compra",
+      "ge": "Kaufen"
+    },
+    {
+      "id": 17,
+      "zh": "金币",
+      "en": "Golds",
+      "sp": "Moneda de oro",
+      "ge": "Goldmünzen"
+    },
+    {
+      "id": 18,
+      "zh": "免费试用",
+      "en": "Free ",
+      "sp": "Prueba gratis",
+      "ge": "Gratis proben"
+    },
+    {
+      "id": 19,
+      "zh": "使用",
+      "en": "Use",
+      "sp": "Usar",
+      "ge": "Benutzen"
+    },
+    {
+      "id": 20,
+      "zh": "使用中",
+      "en": "Using",
+      "sp": "usando",
+      "ge": "Benutzt werden"
+    },
+    {
+      "id": 22,
+      "zh": "胜利",
+      "en": "VICTORY",
+      "sp": "Victoria",
+      "ge": "Sieg"
+    },
+    {
+      "id": 23,
+      "zh": "失败",
+      "en": "DEFEAT",
+      "sp": "Fracaso",
+      "ge": "Niederlage"
+    },
+    {
+      "id": 24,
+      "zh": "确认退出？",
+      "en": "Confirm exit?",
+      "sp": "¿Confirmar salida?",
+      "ge": "Bestätigen  Registrieren ?"
+    },
+    {
+      "id": 25,
+      "zh": "是",
+      "en": "Yes",
+      "sp": "Sí",
+      "ge": "Ja"
+    },
+    {
+      "id": 26,
+      "zh": "取消",
+      "en": "Cancel",
+      "sp": "Cancelar",
+      "ge": "Abschaffen"
+    },
+    {
+      "id": 27,
+      "zh": "金币数量不足，无法购买。",
+      "en": "Not enough gold",
+      "sp": "No hay tuficientes monedas de oro para comprar.",
+      "ge": " Nicht genügende Goldmünzen und können nicht kaufen."
+    },
+    {
+      "id": 28,
+      "zh": "获得奖励",
+      "en": "Reward",
+      "sp": "Obtén recompensas",
+      "ge": "Auszeichnungen gewinnen"
+    },
+    {
+      "id": 32,
+      "zh": "免费",
+      "en": "Free",
+      "sp": "Gratis",
+      "ge": "Gratis"
+    },
+    {
+      "id": 33,
+      "zh": "知道了",
+      "en": "Got it",
+      "sp": "Entender",
+      "ge": "Erfahren"
+    },
+    {
+      "id": 36,
+      "zh": "排行榜每小时更新一次",
+      "en": "Ranking List are updated every hour",
+      "sp": "La tabla de clasificación se actualiza cada hora",
+      "ge": "Stündliche Akulisierung der Hitliste "
+    },
+    {
+      "id": 42,
+      "zh": "确认购买？",
+      "en": "Confirm purchase?",
+      "sp": "¿Confirmar compra?",
+      "ge": "Bestätigen  kaufen"
+    },
+    {
+      "id": 43,
+      "zh": "开始游戏",
+      "en": "Play",
+      "sp": "Comienza",
+      "ge": "Spielen"
+    },
+    {
+      "id": 47,
+      "zh": "请前往应用商店下载新版本",
+      "en": "Please go to the app store to download the new version.",
+      "sp": "Vaya a la tienda de aplicaciones para descargar la nueva versión.",
+      "ge": "Bitte zum App Geschäft gehen und die neuste Auflage laden"
+    },
+    {
+      "id": 48,
+      "zh": "网络连接失败,请重新连接",
+      "en": "Connect failed,please reconnect",
+      "sp": "Falló la conexión de red, vuelva a conectar"
+    },
+    {
+      "id": 49,
+      "zh": "恭喜获得",
+      "en": "Congratulations",
+      "sp": "Felicidades",
+      "ge": "Gratulieren"
+    },
+    {
+      "id": 50,
+      "zh": "游客",
+      "en": "Guest",
+      "sp": "Turista",
+      "ge": "Besucher"
+    },
+    {
+      "id": 51,
+      "zh": "广告",
+      "en": "AD",
+      "sp": "Publicidad",
+      "ge": "Werbung"
+    },
+    {
+      "id": 52,
+      "zh": "免费获得",
+      "en": "Free",
+      "sp": "Gratis",
+      "ge": "Gratis"
+    },
+    {
+      "id": 53,
+      "zh": "已通关",
+      "en": "complete",
+      "sp": "Terminado",
+      "ge": "Freigabe"
+    },
+    {
+      "id": 54,
+      "zh": "未通关",
+      "en": "unfinished",
+      "sp": "No terminado",
+      "ge": "Misserfolg"
+    },
+    {
+      "id": 58,
+      "zh": "上一关",
+      "en": "Previous Level",
+      "sp": "Nivel anterior",
+      "ge": "Letzte Stufe"
+    },
+    {
+      "id": 59,
+      "zh": "下一关",
+      "en": "Next Level",
+      "sp": "Siguiente nivel",
+      "ge": "Nächste Stufe"
+    },
+    {
+      "id": 60,
+      "zh": "开始挑战",
+      "en": "Start",
+      "sp": "Comienza el desafío",
+      "ge": "Starten die Herausforderung"
+    },
+    {
+      "id": 61,
+      "zh": "是否复活？",
+      "en": "Revival or Not?",
+      "sp": "¿Retucitas?",
+      "ge": "Wollen Sie wiederbelebung?"
+    },
+    {
+      "id": 62,
+      "zh": "倒计时结束后，自动退出",
+      "en": "Exit automatically when the countdown is over",
+      "sp": "Saldrás automáticamente después de que finalice la cuenta regresiva",
+      "ge": "Wird nach Ablauf des Countdowns automatisch beendet"
+    },
+    {
+      "id": 63,
+      "zh": "复活",
+      "en": "Revival",
+      "sp": "Retucitar",
+      "ge": "Wiederbelebung"
+    },
+    {
+      "id": 64,
+      "zh": "返回",
+      "en": "Return",
+      "sp": "Volver",
+      "ge": "Zurück"
+    },
+    {
+      "id": 65,
+      "zh": "太难了，不甘心？",
+      "en": "Too difficult to try？",
+      "sp": "¿Demasiado difícil y no te satisfaces?",
+      "ge": "zu schwer, ergab sich nicht?"
+    },
+    {
+      "id": 66,
+      "zh": "尝试消除一些机关来降低难度吧！",
+      "en": "Try to remove some traps to make it easier!",
+      "sp": "¡Intenta eliminar algunos órganos para reducir la dificultad!",
+      "ge": "Versuchen Sie, einige Mechanismen zu eliminieren, um die Schwierigkeit zu reduzieren!"
+    },
+    {
+      "id": 67,
+      "zh": "放弃",
+      "en": "Give up",
+      "sp": "Rendirse",
+      "ge": "Aufgeben"
+    },
+    {
+      "id": 68,
+      "zh": "喜欢我们吗？",
+      "en": "Like us?",
+      "sp": "¿Nos gustas?",
+      "ge": "Mögen Sie uns?"
+    },
+    {
+      "id": 69,
+      "zh": "期待您宝贵的建议！",
+      "en": "Look forward to your valuable suggestions!",
+      "sp": "¡Esperamos tus valiosas tugerencias!",
+      "ge": "Wir freuen uns auf Ihre wertvollen Vorschläge!"
+    },
+    {
+      "id": 70,
+      "zh": "评价",
+      "en": "Evaluation",
+      "sp": "Evaluación",
+      "ge": "Bewertung"
+    },
+    {
+      "id": 71,
+      "zh": "可试用",
+      "en": "Applicable",
+      "sp": "Disponible para prueba",
+      "ge": "Bewährbar"
+    },
+    {
+      "id": 72,
+      "zh": "试用中",
+      "en": "In the trail",
+      "sp": "En prueba",
+      "ge": "Probezeit"
+    },
+    {
+      "id": 75,
+      "zh": "关卡",
+      "en": "Level",
+      "sp": "Nivel",
+      "ge": "Stufe"
+    },
+    {
+      "id": 77,
+      "zh": "体力不足了",
+      "en": "Low Power",
+      "sp": "Sin energía",
+      "ge": "Zu wenig Energie"
+    },
+    {
+      "id": 78,
+      "zh": "尚未获得该皮肤",
+      "en": "This skin has bot been obtained",
+      "sp": "La piel no ha sido obtenida",
+      "ge": "Die Haut wurde nicht erhalten."
+    },
+    {
+      "id": 79,
+      "zh": "奖励已领取",
+      "en": "Award Received",
+      "sp": "Recompensado",
+      "ge": "Gratis schon genommen."
+    },
+    {
+      "id": 80,
+      "zh": "金币不足，无法复活",
+      "en": "Gold is not enough to revival",
+      "sp": "Intuficientes monedas de oro para revivir",
+      "ge": "Nicht genügend Goldmünzen zur Wiederbelebung"
+    },
+    {
+      "id": 81,
+      "zh": "皮肤已购买",
+      "en": "The skin has been obtained",
+      "sp": "La piel ha sido comprada",
+      "ge": "Haut gekauft."
+    },
+    {
+      "id": 84,
+      "zh": "点击任意位置继续",
+      "en": "Click anywhere to continue",
+      "sp": "Haz clic en cualquier lugar para continuar",
+      "ge": "Klicken Sie irgendwo, um fortzufahren"
+    },
+    {
+      "id": 85,
+      "zh": "最佳记录",
+      "en": "Best Record",
+      "sp": "Mejor récord",
+      "ge": "Bester Rekord"
+    },
+    {
+      "id": 86,
+      "zh": "暂无记录",
+      "en": "No Record",
+      "sp": "Sin récord",
+      "ge": "Keiner Rekord"
+    },
+    {
+      "id": 87,
+      "zh": "去获取一些体力再来吧！",
+      "en": "Go get some power",
+      "sp": "¡Ve a buscar energía y ven de nuevo!",
+      "ge": "Holen Sie sich etwas Energie und kommen Sie wieder!"
+    },
+    {
+      "id": 88,
+      "zh": "皮肤",
+      "en": "Skin",
+      "sp": "Piel",
+      "ge": "Haut"
+    },
+    {
+      "id": 89,
+      "zh": "特效",
+      "en": "Special Effects",
+      "sp": "Efecto especial",
+      "ge": "Spezialeffekte"
+    },
+    {
+      "id": 90,
+      "zh": "尚未获得该特效",
+      "en": "This special effect has not been obtained",
+      "sp": "Este efecto no ha sido obtenido",
+      "ge": "Dieser Spezialeffekte wurde nicht erzielt."
+    },
+    {
+      "id": 91,
+      "zh": "特效已购买",
+      "en": "The special effect has been obtained",
+      "sp": "Efecto especial comprado",
+      "ge": "Spezialeffekte gekauft"
+    },
+    {
+      "id": 92,
+      "zh": "昵称",
+      "en": "Nickname",
+      "sp": "Apodo",
+      "ge": "Spitzname"
+    },
+    {
+      "id": 93,
+      "zh": "关卡解锁",
+      "en": "Unlock by play",
+      "sp": "Desbloqueo de nivel",
+      "ge": "Level freischalten"
+    },
+    {
+      "id": 94,
+      "zh": "一天使用权",
+      "en": "One day pass",
+      "sp": "Un día usa bien",
+      "ge": "Eines Tages richtig verwenden"
+    },
+    {
+      "id": 95,
+      "zh": "灵敏度",
+      "en": "Sensitivity",
+      "sp": "Sensibilidad",
+      "ge": "Empfindlichkeit"
+    },
+    {
+      "id": 96,
+      "zh": "敬请期待",
+      "en": "Coming soon",
+      "sp": "Estén atentos",
+      "ge": "Bleib dran"
+    },
+    {
+      "id": 97,
+      "zh": "再来一次",
+      "en": "Again",
+      "sp": "De nuevo",
+      "ge": "Schon wieder"
+    },
+    {
+      "id": 98,
+      "zh": "是否前往商店购买新的皮肤和特效？",
+      "en": "Would you like to buy some new stuffs? ",
+      "sp": "¿Te gustaría comprar algunas cosas nuevas?",
+      "ge": "Möchten Sie ein paar neue Sachen kaufen?"
+    },
+    {
+      "id": 99,
+      "zh": "去购买",
+      "en": "Go shopping",
+      "sp": "ir de compras",
+      "ge": "Geh kaufen"
+    },
+    {
+      "id": 100,
+      "zh": "登录",
+      "en": "Log in",
+      "sp": "Iniciar sesión",
+      "ge": "Anmelden"
+    },
+    {
+      "id": 101,
+      "zh": "复活时保存已激活的机关",
+      "en": "Save open institutions when resurrected",
+      "sp": "Guarde las instituciones abiertas cuando resucite",
+      "ge": "Rette offene Institutionen, wenn sie auferstehen"
+    },
+    {
+      "id": 102,
+      "zh": "是否花费金币解锁当前主题？",
+      "en": "Spend gold to unlock the current theme?",
+      "sp": "¿Cuesta una moneda de oro desbloquear el tema actual?",
+      "ge": "Verbringen Sie Gold, um das aktuelle Thema zu lösen?"
+    },
+    {
+      "id": 103,
+      "zh": "观看视频可以免费复活一次！",
+      "en": "Watch the video and resurrect it once for free!",
+      "sp": "¡Mira el video y resucítalo una vez gratis!",
+      "ge": "Sehen Sie sich das Video an und lassen Sie es einmal kostenlos wieder auferstehen!"
+    },
+    {
+      "id": 104,
+      "zh": "不，谢谢",
+      "en": "No, thank you",
+      "sp": "No gracias",
+      "ge": "Nein danke"
+    },
+    {
+      "id": 105,
+      "zh": "观看",
+      "en": "Watch",
+      "sp": "Reloj",
+      "ge": "Beobachten"
+    },
+    {
+      "id": 106,
+      "zh": "10分钟试用",
+      "en": "10 minute trial",
+      "sp": "Prueba de 10 minutos",
+      "ge": "10 Minuten Testversion"
+    },
+    {
+      "id": 107,
+      "zh": "30分钟试用",
+      "en": "30 minute trial",
+      "sp": "30 minutos de prueba",
+      "ge": "30 Minuten Testversion"
+    },
+    {
+      "id": 108,
+      "zh": "是否观看视频获得体力？",
+      "en": "Are you watching the video for physical strength?",
+      "sp": "¿Estás viendo el video de fuerza física?",
+      "ge": "Siehst du dir das Video für körperliche Stärke an?"
+    },
+    {
+      "id": 109,
+      "zh": "是否观看视频获得金币？",
+      "en": "Do you watch the video to get coins?",
+      "sp": "¿Ves el video para obtener monedas?",
+      "ge": "Siehst du dir das Video an, um Münzen zu bekommen?"
+    },
+    {
+      "id": 110,
+      "zh": "退出账号",
+      "en": "Sign out",
+      "sp": "desconectar",
+      "ge": "Ausloggen"
+    },
+    {
+      "id": 111,
+      "zh": "玩法介绍",
+      "en": "How to play",
+      "sp": "Cómo jugar",
+      "ge": "Spielanleitung"
+    },
+    {
+      "id": 1000,
+      "zh": "默认",
+      "en": "Default",
+      "sp": "Por defecto",
+      "ge": "Standard"
+    },
+    {
+      "id": 1001,
+      "zh": "雪人",
+      "en": "Snowman",
+      "sp": "Yeti",
+      "ge": "Yeti"
+    },
+    {
+      "id": 1002,
+      "zh": "骑士",
+      "en": "Knight",
+      "sp": "Caballero",
+      "ge": "Ritter"
+    },
+    {
+      "id": 1003,
+      "zh": "北极熊",
+      "en": "Polar Bear",
+      "sp": "Oso polar",
+      "ge": "Polarer Bär"
+    },
+    {
+      "id": 1004,
+      "zh": "矿工",
+      "en": "Miner",
+      "sp": "Minero",
+      "ge": "Bergmann"
+    },
+    {
+      "id": 1005,
+      "zh": "骷髅",
+      "en": "Death",
+      "sp": "Muerte",
+      "ge": "Der Tod"
+    },
+    {
+      "id": 1006,
+      "zh": "海盗",
+      "en": "Pirate",
+      "sp": "Pirata",
+      "ge": "Pirat"
+    },
+    {
+      "id": 1007,
+      "zh": "木乃伊",
+      "en": "Mummy",
+      "sp": "Momia",
+      "ge": "Mama"
+    },
+    {
+      "id": 1008,
+      "zh": "牛仔",
+      "en": "Cowboy",
+      "sp": "Vaquero",
+      "ge": "Cowboy"
+    },
+    {
+      "id": 1009,
+      "zh": "蘑菇人",
+      "en": "Mushroom",
+      "sp": "Hongos",
+      "ge": "Pilze"
+    },
+    {
+      "id": 2000,
+      "zh": "通关关卡",
+      "en": "Mission Compeleted",
+      "sp": "Nivel de pasar",
+      "ge": "Freigabestufen"
+    },
+    {
+      "id": 2001,
+      "zh": "秒内通过关卡",
+      "en": "  seconds limitation",
+      "sp": " segundos Limitación de",
+      "ge": " sekunden begrenzung"
+    },
+    {
+      "id": 2002,
+      "zh": "不使用复活通过关卡",
+      "en": "Pass the level without resurrection",
+      "sp": "Pasa el nivel sin resurrección",
+      "ge": "Schaffe das Level ohne Auferstehung"
+    },
+    {
+      "id": 3000,
+      "zh": "您需要操作您的角色，靠近您的同伴，来解救他！",
+      "en": "You need to operate your character and get close to your companion to rescue him!",
+      "sp": "¡Necesita manipular a tu personaje y acercarte a tu compañero para rescatarlo!",
+      "ge": "Sie müssen Ihren Charakter manipulieren und sich Ihren Begleiter nähern, um ihn zu retten!"
+    },
+    {
+      "id": 3001,
+      "zh": "这是您的同伴！",
+      "en": "This is your companion!",
+      "sp": "¡Este es tu compañero!",
+      "ge": "Das ist Ihr Begleiter!"
+    },
+    {
+      "id": 3002,
+      "zh": "您可以通过滑动屏幕左半边区域，来控制角色的移动方向。",
+      "en": "You can control the movement direction of the character by swiping the left half of the screen.",
+      "sp": "¡Puedes controlar la dirección del movimiento del personaje deslizando la mitad izquierda de la pantalla.",
+      "ge": "Sie können die Bewegungsrichtung des Charakters steuern, indem Sie über die linke hälfte Bildschirm verschieben."
+    },
+    {
+      "id": 3003,
+      "zh": "点击右边屏幕即可抛出锚线，长按可移动角色",
+      "en": "Click the right screen to throw the hook long press to move the character",
+      "sp": "Haz clic en la pantalla a la derecha para lanzar la línea de anclaje, presiona prolongadamente para mover el personaje.",
+      "ge": "Klicken Sie auf den rechten Bildschirm, um die Ankerlinie zu werfen, und drücken Sie lange, um den Charakter zu bewegen"
+    },
+    {
+      "id": 3004,
+      "zh": "据说是能够致命的机关，不建议靠近！！",
+      "en": "Seems like a deadly trap which is not recommended to approach!",
+      "sp": "Se dice que es un órgano mortal ¡No se recomienda acercarse! ",
+      "ge": "Es soll ein tödliche Stufe sein. Es wird nicht empfohlen, sich zu nähern! !!"
+    },
+    {
+      "id": 3005,
+      "zh": "这可不是一般的游泳池哦~他还会令人窒息！",
+      "en": "This is not just a swimming pool ~ it also could make you suffocation!",
+      "sp": "Esta no es una piscina ordinaria ~ ¡se sofocará!",
+      "ge": "Dies ist kein normales Schwimmbad ~ es wird ersticken!"
+    },
+    {
+      "id": 3006,
+      "zh": "这是一个很有意思的机关，试着拉动钥匙打开锁，会有惊喜呢~",
+      "en": "This is a very interesting setting. Try to pull the key to open the lock, surprise is waiting for you ~",
+      "sp": "Este es un mecanismo muy interesante. Intenta tirar de la llave para abrir la cerradura, te sorprenderá ~",
+      "ge": "Dies ist ein sehr interessanter Mechanismus. Versuchen Sie, den Schlüssel zu ziehen, um das Schloss zu öffnen."
+    },
+    {
+      "id": 3007,
+      "zh": "一种不坚固的墙体，当受到撞击或踩踏时会碎裂！",
+      "en": "Weak wall that breaks when hit or stomped!",
+      "sp": "¡Una pared débil que se rompe al ser golpeada o pisoteada!",
+      "ge": "Eine schwache Wand, die beim Schlagen oder Stampfen bricht!"
+    },
+    {
+      "id": 3008,
+      "zh": "致命的激光，如果强行穿过你会后悔的！尝试找一些机关关闭激光吧！",
+      "en": "A deadly laser which will make you regret if you forcedly get through! Try to find the right switch to turn it off !",
+      "sp": "¡Láser mortal, te arrepentirás si lo fuerzas! \n¡Intenta encontrar algunas agencias para apagar el láser!",
+      "ge": "Tödlicher Laser, wenn Sie dadurch gehen, werden Sie bereuen! Versuchen Sie, einiges Mechanismus zu finden, um den Laser auszuschalten!"
+    },
+    {
+      "id": 3009,
+      "zh": "似乎难度降低了？！这样简单的机关，只需要留意移动的齿轮就好了！嘻嘻~",
+      "en": "Seems less difficult? !! Such a simple trap if you just  pay attention to the moving gear! ",
+      "sp": "¡¿Parece menos difícil? ! \n¡Un mecanismo tan simple, solo necesita prestar atención a la rueda dentada en movimiento! ",
+      "ge": "Scheint wenige Schwierigkeit? !! Solch ein einfacher Mechanismus, muss nur auf das sich bewegende Zahnrad achten! Hee hee ~"
+    },
+    {
+      "id": 3010,
+      "zh": "这里有炮台，小心被炮弹打中！",
+      "en": " Be careful not to get hit by this cannon!",
+      "sp": "Aquí hay una torreta, ¡ten cuidado de no ser golpeado por proyectiles!",
+      "ge": "Es gibt einen Turm hier, passen Sie auf, dass Sie nicht von Granaten getroffen wirst!"
+    },
+    {
+      "id": 3011,
+      "zh": "这里的激光无法被关闭，集中精神，寻找空隙！",
+      "en": "The laser here can't be disabled. Concentrate and wait for the right moment!",
+      "sp": "El láser aquí no se puede apagar, ¡concéntrate en encontrar huecos!",
+      "ge": "Der Laser kann hier nicht ausgeschaltet werden, konzentrieren Sie sich darauf, Lücken zu finden!"
+    },
+    {
+      "id": 3012,
+      "zh": "看，那道墙会移动！",
+      "en": "Look, that wall can move!",
+      "sp": "¡Mira, esa pared se moverá!",
+      "ge": "Schau, diese Wand wird sich bewegen!"
+    },
+    {
+      "id": 3013,
+      "zh": "小心，不要长时间呆在毒雾里！",
+      "en": "Be careful not to stay in the poison gas too long!",
+      "sp": "¡Tenga cuidado de no permanecer en la niebla venenosa por mucho tiempo!",
+      "ge": "Achten Sie darauf, nicht lange im giftigen zu bleiben!"
+    },
+    {
+      "id": 3014,
+      "zh": "不要靠近他！相信自己，没有任何苦难是无法克服的！",
+      "en": "Don't approach it! You saw it rolling，and it will saw you dead.",
+      "sp": "¡No te acerques a él! \n¡Cree en ti mismo, ningún sufrimiento puede ser superado!",
+      "ge": "Halt dich von ihm fern!Glauben Sie an sich, kein Leiden kann überwunden werden!"
+    },
+    {
+      "id": 3015,
+      "zh": "哼！闪电没有一个好东西！",
+      "en": "Lightning is dangerous.Everybody knows.",
+      "sp": "Huh,¡Los relámpagos no tienen nada bueno!",
+      "ge": "Hum! Blitz hat nichts Gutes!"
+    },
+    {
+      "id": 3016,
+      "zh": "聪明的主人，您是最棒的！",
+      "en": "Smart host, you are the best!",
+      "sp": "Anfitrión inteligente, ¡eres el mejor!",
+      "ge": "Kluger Meister, Sie sind der Beste!"
+    },
+    {
+      "id": 3017,
+      "zh": "点击城堡，选择关卡。",
+      "en": "Click on the castle and select the level.",
+      "sp": "Haz clic en el castillo y selecciona el nivel.",
+      "ge": "Klicke auf die Burg und wähle das Level aus."
+    },
+    {
+      "id": 3018,
+      "zh": "进入关卡，开始你的操作！",
+      "en": "Enter the level and start your operation!",
+      "sp": "¡Ingrese al nivel y comience su operación!",
+      "ge": "Betreten Sie das Level und starten Sie Ihren Betrieb!"
+    },
+    {
+      "id": 3019,
+      "zh": "返回主界面"
+    },
+    {
+      "id": 3020,
+      "zh": "这里可以对游戏进行设置",
+      "en": "You can set the game here",
+      "sp": "Puedes configurar el juego aquí",
+      "ge": "Sie können das Spiel hier einstellen"
+    },
+    {
+      "id": 3021,
+      "zh": "调整灵敏度大小，让你的瞄准精度更高。",
+      "en": "Adjust the sensitivity to make your aiming accuracy higher.",
+      "sp": "Ajuste la sensibilidad para aumentar su precisión de puntería.",
+      "ge": "Passen Sie die Empfindlichkeit an, um Ihre Zielgenauigkeit zu erhöhen."
+    },
+    {
+      "id": 3022,
+      "zh": "点击关闭"
+    },
+    {
+      "id": 3023,
+      "zh": "在“？”这里，你可以了解的更多。",
+      "en": "You can learn more about \"?\"",
+      "sp": "Puedes aprender más sobre \"?\"",
+      "ge": "Sie können mehr über \"?\""
+    },
+    {
+      "id": 4000,
+      "zh": "古老城堡",
+      "en": "Ancient Castle",
+      "sp": "Castillo antiguo",
+      "ge": "Altes Schloss"
+    },
+    {
+      "id": 4001,
+      "zh": "雪中木屋",
+      "en": "Chalet in the Snow",
+      "sp": "Chalet en nieve",
+      "ge": "Holzhütte im Schnee"
+    },
+    {
+      "id": 4002,
+      "zh": "迷失森林",
+      "en": "Lost Forest",
+      "sp": "Bosque perdido",
+      "ge": "Verlorene Wald"
+    },
+    {
+      "id": 4003,
+      "zh": "法老之墓",
+      "en": "Pharaoh's Tomb",
+      "sp": "Tumba del faraón",
+      "ge": "Pharaonengrab"
+    },
+    {
+      "id": 5000,
+      "zh": "星星",
+      "en": "Star",
+      "sp": "Estrella",
+      "ge": "Sterne"
+    },
+    {
+      "id": 5001,
+      "zh": "雪花",
+      "en": "Snowflake",
+      "sp": "Copo de nieve",
+      "ge": "Schneeflocke"
+    },
+    {
+      "id": 5002,
+      "zh": "糖果",
+      "en": "Candy",
+      "sp": "Caramelo",
+      "ge": "Süßigkeiten"
+    },
+    {
+      "id": 5003,
+      "zh": "幻影",
+      "en": "Phantom",
+      "sp": "Fantasma",
+      "ge": "Phantom"
+    },
+    {
+      "id": 5004,
+      "zh": "火焰",
+      "en": "Flame",
+      "sp": "Llama",
+      "ge": "Flamme"
+    },
+    {
+      "id": 5005,
+      "zh": "叶子",
+      "en": "Leaf",
+      "sp": "Hoja",
+      "ge": "Blatt"
+    },
+    {
+      "id": 5006,
+      "zh": "向日葵",
+      "en": "Sunflower",
+      "sp": "Girasol",
+      "ge": "Sonnenblume"
+    },
+    {
+      "id": 5007,
+      "zh": "花瓣",
+      "en": "Petal",
+      "sp": "Pétalos",
+      "ge": "Blütenblätter"
+    },
+    {
+      "id": 6000,
+      "zh": "操作方式",
+      "en": "Operation method",
+      "sp": "Modo de operación",
+      "ge": "Funktionsweise"
+    },
+    {
+      "id": 6001,
+      "zh": "灵敏度",
+      "en": "Sensitivity",
+      "sp": "Sensibilidad",
+      "ge": "Empfindlichkeit"
+    },
+    {
+      "id": 6002,
+      "zh": "地刺",
+      "en": "Thorn",
+      "sp": "Espina",
+      "ge": "Dorn"
+    },
+    {
+      "id": 6003,
+      "zh": "水池",
+      "en": "Pool",
+      "sp": "Piscina",
+      "ge": "Schwimmbad"
+    },
+    {
+      "id": 6004,
+      "zh": "钥匙",
+      "en": "Key",
+      "sp": "Llave",
+      "ge": "Schlüssel"
+    },
+    {
+      "id": 6005,
+      "zh": "破碎墙",
+      "en": "Broken wall",
+      "sp": "Pared rota",
+      "ge": "Gebrochene Mauer"
+    },
+    {
+      "id": 6006,
+      "zh": "激光",
+      "en": "laser",
+      "sp": "láser",
+      "ge": "Laser-"
+    },
+    {
+      "id": 6007,
+      "zh": "移动地刺",
+      "en": "Moving stab",
+      "sp": "Puñalada en movimiento",
+      "ge": "Beweglicher Stich"
+    },
+    {
+      "id": 6008,
+      "zh": "炮台",
+      "en": "Fort",
+      "sp": "Fuerte",
+      "ge": "Fort"
+    },
+    {
+      "id": 6009,
+      "zh": "间隙性激光",
+      "en": "Gap laser",
+      "sp": "Gap laser",
+      "ge": "Lückenlaser"
+    },
+    {
+      "id": 6010,
+      "zh": "移动墙",
+      "en": "Moving wall",
+      "sp": "Pared móvil",
+      "ge": "Bewegliche Wand"
+    },
+    {
+      "id": 6011,
+      "zh": "毒雾",
+      "en": "Poison mist",
+      "sp": "Niebla venenosa",
+      "ge": "Giftnebel"
+    },
+    {
+      "id": 6012,
+      "zh": "闪电球",
+      "en": "Lightning ball",
+      "sp": "Bola de rayos",
+      "ge": "Blitzkugel"
+    },
+    {
+      "id": 6013,
+      "zh": "定时墙",
+      "en": "Timing wall",
+      "sp": "Pared de tiempo",
+      "ge": "Steuerwand"
+    },
+    {
+      "id": 6014,
+      "zh": "旋转地刺",
+      "en": "Spin thorns",
+      "sp": "Girar espinas",
+      "ge": "Dornen drehen"
+    },
+    {
+      "id": 6100,
+      "zh": "左半边控制方向，右半边点击射出，长按可吸附在墙壁上",
+      "en": "The left half controls the direction, the right half clicks to shoot, and long press can be absorbed on the wall",
+      "sp": "La mitad izquierda controla la dirección, la mitad derecha hace clic para disparar, y la presión prolongada se puede absorber en la pared",
+      "ge": "Die linke Hälfte steuert die Richtung, die rechte Hälfte klickt zum Schießen und langes Drücken kann an der Wand absorbiert werden"
+    },
+    {
+      "id": 6101,
+      "zh": "调整灵敏度，让你的瞄准精度更高。",
+      "en": "Adjust the sensitivity to make your aiming accuracy higher.",
+      "sp": "Ajuste la sensibilidad para aumentar su precisión de puntería.",
+      "ge": "Passen Sie die Empfindlichkeit an, um Ihre Zielgenauigkeit zu erhöhen."
+    },
+    {
+      "id": 6102,
+      "zh": "不要触碰到它，否则你会死亡",
+      "en": "Don't touch it or you will die",
+      "sp": "No lo toques o morirás",
+      "ge": "Fass es nicht an, sonst wirst du sterben"
+    },
+    {
+      "id": 6103,
+      "zh": "长时间待在水池中，会让人窒息。",
+      "en": "Staying in the pool for a long time can be suffocating.",
+      "sp": "Permanecer en la piscina durante mucho tiempo puede ser sofocante.",
+      "ge": "Ein längerer Aufenthalt im Pool kann ersticken."
+    },
+    {
+      "id": 6104,
+      "zh": "想要打开门，就把钥匙拖到闪闪发光的锁去吧。",
+      "en": "To open the door, drag the key to the glittering lock.",
+      "sp": "Para abrir la puerta, arrastre la llave a la cerradura brillante.",
+      "ge": "Ziehen Sie den Schlüssel zum glitzernden Schloss, um die Tür zu öffnen."
+    },
+    {
+      "id": 6105,
+      "zh": "破碎的墙体无法承受你的重量，另外被击打3次后也会破碎。",
+      "en": "The broken wall cannot bear your weight, and it will break after being hit 3 times.",
+      "sp": "La pared rota no puede soportar su peso, y se romperá después de ser golpeado 3 veces.",
+      "ge": "Die zerbrochene Wand kann Ihr Gewicht nicht tragen und bricht nach dreimaligem Treffer."
+    },
+    {
+      "id": 6106,
+      "zh": "不要企图强行穿过，拉动机关就可以把它关闭。",
+      "en": "Don't try to force it through, pull the mechanism to close it.",
+      "sp": "No intentes forzarlo, tira del mecanismo para cerrarlo.",
+      "ge": "Versuchen Sie nicht, es durchzudrücken, sondern ziehen Sie am Mechanismus, um es zu schließen."
+    },
+    {
+      "id": 6107,
+      "zh": "小心滚动的齿轮，它会致人死亡。",
+      "en": "Be careful of rolling gears, it can cause death.",
+      "sp": "Tenga cuidado con los engranajes rodantes, puede causar la muerte.",
+      "ge": "Achten Sie auf rollende Zahnräder, da dies zum Tod führen kann."
+    },
+    {
+      "id": 6108,
+      "zh": "炮台每隔一段时间就会发射炮弹，小心躲避。",
+      "en": "The turret fires artillery shells every so often, avoiding them carefully.",
+      "sp": "La torreta dispara proyectiles de artillería de vez en cuando, evitándolos con cuidado.",
+      "ge": "Der Turm feuert von Zeit zu Zeit Artilleriegeschosse ab und vermeidet sie sorgfältig."
+    },
+    {
+      "id": 6109,
+      "zh": "虽然无法关闭，但只需要把握准时机，等待激光关闭的时刻",
+      "en": "Although it can't be turned off, you just need to grasp the right time and wait for the moment when the laser is turned off",
+      "sp": "Aunque no se puede apagar, solo necesita aprovechar el momento adecuado y esperar el momento en que se apaga el láser",
+      "ge": "Obwohl es nicht ausgeschaltet werden kann, müssen Sie nur die richtige Zeit erfassen und auf den Moment warten, in dem der Laser ausgeschaltet wird"
+    },
+    {
+      "id": 6110,
+      "zh": "可以移动的墙体，你可以利用它渡过危险的区域",
+      "en": "Movable wall, you can use it to cross dangerous areas",
+      "sp": "Pared móvil, puedes usarla para cruzar áreas peligrosas",
+      "ge": "Bewegliche Wand, mit der Sie gefährliche Bereiche überqueren können"
+    },
+    {
+      "id": 6111,
+      "zh": "长时间待在毒雾中，会中毒而死",
+      "en": "Staying in poisonous mist for a long time will poison and die",
+      "sp": "Permanecer en la niebla venenosa durante mucho tiempo envenena y muere",
+      "ge": "Ein langer Aufenthalt im giftigen Nebel wird vergiften und sterben"
+    },
+    {
+      "id": 6112,
+      "zh": "小心触电！",
+      "en": "Caution Electricity!",
+      "sp": "Precaución Electricidad!",
+      "ge": "Vorsicht Strom!"
+    },
+    {
+      "id": 6113,
+      "zh": "它可以帮助你在危险的环境中架起一道安全的桥梁！",
+      "en": "It can help you build a safe bridge in a dangerous environment!",
+      "sp": "¡Puede ayudarlo a construir un puente seguro en un entorno peligroso!",
+      "ge": "Es kann Ihnen helfen, eine sichere Brücke in einer gefährlichen Umgebung zu bauen!"
+    },
+    {
+      "id": 6114,
+      "zh": "旋转地刺不仅会沿着轨道移动，刀身也会自转。",
+      "en": "Spin thorns will not only move along the track, but the blade will also rotate.",
+      "sp": "Las espinas giratorias no solo se moverán a lo largo de la pista, sino que la cuchilla también rotará.",
+      "ge": "Spin Dornen bewegen sich nicht nur entlang der Spur, sondern die Klinge dreht sich auch."
+    }
+  ],
+  "version": "20200331"
+}

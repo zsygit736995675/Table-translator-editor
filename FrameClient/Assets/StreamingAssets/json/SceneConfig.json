@@ -1,0 +1,45 @@
+{
+  "datas": [
+    {
+      "id": 1,
+      "name": 4000,
+      "remark": 1,
+      "prefabName": "castle-back",
+      "mainuiRes": "theme1",
+      "level": "[1,20]",
+      "rewards": "[1,3]",
+      "spend": 0
+    },
+    {
+      "id": 2,
+      "name": 4001,
+      "remark": 1,
+      "prefabName": "snow-back",
+      "mainuiRes": "theme2",
+      "level": "[21,40]",
+      "rewards": "[4,6]",
+      "spend": 300
+    },
+    {
+      "id": 3,
+      "name": 4002,
+      "remark": 1,
+      "prefabName": "qw",
+      "mainuiRes": "theme3",
+      "level": "[41,60]",
+      "rewards": "[7,9]",
+      "spend": 500
+    },
+    {
+      "id": 4,
+      "name": 4003,
+      "remark": 1,
+      "prefabName": "qwe",
+      "mainuiRes": "theme4",
+      "level": "[61,80]",
+      "rewards": "[10,12]",
+      "spend": 800
+    }
+  ],
+  "version": "20200331"
+}
